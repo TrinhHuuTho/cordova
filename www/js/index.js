@@ -44,7 +44,7 @@ function onDeviceReady() {
     };
 
     // Replace with your actual backend IP address
-    const apiUrl = "http://<YOUR_BACKEND_IP>:8000/api/forms";
+    const apiUrl = "ccz/api/forms";
 
     responseMessage.textContent = ""; // Clear previous messages
     thankYouMessage.style.display = "none"; // Hide thank you message initially
